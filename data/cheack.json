@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Wildlife",
+        "image": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2lsZGxpZmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "Wildlife photography can bring out some of the most intense photographers you'll meet - people who might spend hours on end waiting for an animal to wander into the perfect spot, or search for creatures that most people would rather try to avoid. But it's also something you can practice in your own backyard,people are still used very frequently in advertising campaigns today. Usually, the goal of commercial photography is to create images that match the emotions and message the brand in question is trying to convey. These photographers need special skills in studio lighting and visualization to make the client's plan a reality.No matter the final output, though, food photos almost always try to capture their subject in the most appetizing way possible. Sometimes, food photographers will replace the actual foods in an image with artificial substitutes that look tastier, such as glue rather than milk when photographing cereal! or a short drive from where you live, since there are animals to be found everywhere. From time to time, you'll see a photo series of urban wildlife that rivals the best images captured in more remote locations.",
+        "price": "$ 3500",
+        "rating": 4.5,
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        }
+    },
+    {
+        "title": "Astrophotography",
+        "image": "https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dW5pdmVyc2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "Encompassing everything from smartphone images taken through a telescope to deep-space photographs from the Hubble, astrophotography can be one of the most humbling types of photography to practice. It's humbling for two reasons: First, the size and scale of subjects captured in this style of photography are enough to bring on existential awe in almost anyone. But more to the point, if you don't have excellent exposure and post-processing techniques, any lack of knowledge will be immediately obvious.There is also a genre of “astrolandscape” photography that includes the Milky Way with a slice of Earth in the foreground.people are still used very frequently in advertising campaigns today. Usually, the goal of commercial photography is to create images that match the emotions and message the brand in question is trying to convey. These photographers need special skills in studio lighting and visualization to make the client's plan a reality. Although it is still tricky to take astrolandscape photos, they're a bit easier for most photographers to master",
+        "price": "$ 5000",
+        "rating": 4.5,
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        }
+    },
+    {
+        "title": "Underwater",
+        "image": "https://images.unsplash.com/photo-1515467699666-4adf84b2fd42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dW5kZXIlMjB3YXRlciUyMGZpc2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "It isn't always easy to take underwater photos, even if you live in the right location for it. Not only do you need a good waterproof camera, but you also need some specific lighting equipment the moment you start taking photos more than a short distance from the surface. Add in scuba gear and the requisite training for longer dives, and you can see why this is one of the trickier genres to start practicing.Other images might not meet the criteria for any of these categories at all, like surreal composite photography or abstract images where you can't tell what the subject is in the first place. That's perfectly fine, and it doesn't say anything about the quality of a photo one way or another. The point of the list above is to give you some ideas for different styles of photography you may enjoy, not constrict the types of images you can take But if you put in the money and effort, you'll end up with photos that not nearly as many people are taking today. Underwater photography spans everything from wildlife and macro to portraits that are striking to the eye.",
+        "price": "$ 3000",
+        "rating": 4.5,
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        }
+    },
+    {
+        "title": "Macro",
+        "image": "https://images.unsplash.com/photo-1484278786775-527ac0d0b608?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bWFjcm98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "description": "One of the most accessible types of photography is macro, the art of capturing small creatures and objects that we ordinarily overlook. Macro photography is usually associated with images of bugs and flowers, but even subjects like snowflakes or water droplets in the studio can make for amazing macro photos. A related style of photography is simply “close-up” photography, which might not be as magnified as true macro work, but still isolates a small slice of the world that otherwise may not stand out.Although a dedicated macro lens can be expensive, a set of extension tubes is much cheaper and likely works just fine with your current equipment. For photographers who only ever take pictures when they travel, my top recommendation is to start practicing macro photography one way or another. It's not easy to master, but you'll learn some very useful technical skills and take some stellar photos along the way.",
+        "price": "$ 2000",
+        "rating": 4.5,
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        }
+    },
+    {
+        "title": "Landscape",
+        "image": "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bGFuZHNjYXBlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Landscape photography is another way of saying scenic or environmental photography. It involves taking pictures of a natural scene - often large and grand, but sometimes smaller and more intimate - in a way that brings the viewer into a scene. Landscape photography is one of the most popular types today, spinning off several sub-genres such as storm photography, seascapes, and so on. With a broader definition, it also includes “urban landscape” photography and manmade scenes.Not only do wedding photographers need to have good camera and lighting skills, but they also must know how to work with people and capture the right emotions almost effortlessly. This is a difficult type of photography to practice, and you only get one chance to do it right, so I have a lot of respect for good wedding photographers.",
+        "price": "$ 1500",
+        "rating": 4.5,
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        }
+    },
+    {
+        "title": "Aerial Photography",
+        "image": "https://images.unsplash.com/photo-1619083417049-d08746f461c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGFlcmlhbCUyMHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "description": "Whether this is simply a branch of landscape photography or a genre of its own is debatable, but either way, aerial photography is experiencing an explosion in popularity today thanks to the advent of high-quality consumer drones. Aerial photography also encompasses high-altitude images from planes and helicopters, as well as images where the subject is manmade rather than a landscape per se.Not only do wedding photographers need to have good camera and lighting skills, but they also must know how to work with people and capture the right emotions almost effortlessly.Other images might not meet the criteria for any of these categories at all, like surreal composite photography or abstract images where you can't tell what the subject is in the first place. That's perfectly fine, and it doesn't say anything about the quality of a photo one way or another. The point of the list above is to give you some ideas for different styles of photography you may enjoy, not constrict the types of images you can take This is a difficult type of photography to practice, and you only get one chance to do it right, so I have a lot of respect for good wedding photographers.",
+        "price": "$ 2500",
+        "rating": 4.5,
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        }
+    }
+]
