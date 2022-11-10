@@ -30,6 +30,14 @@ async function run() {
             res.send(services);
         })
 
+        app.post('/services', async (req, res) => {
+            const addNew = req.body;
+            // console.log(user);
+            const reviews = await serviceCollection.insertOne(addNew);
+            res.send(reviews);
+        })
+
+
         // home section three data get
         app.get('/home', async (req, res) => {
             const query = {}
@@ -47,16 +55,21 @@ async function run() {
             res.send(service);
         })
 
-        // for getting review data
-        app.get('/myreview', async (req, res) => {
-            const query = {}
-            const cursor = reviewCollection.findOne(query);
+        // for getting review data api
+        app.get('/reviews', async (req, res) => {
+            let query = {}
+            if (req.query.email) {
+                query = {
+                    email: req.query.email
+                }
+            }
+            const cursor = reviewCollection.find(query);
             const reviews = await cursor.toArray();
             res.send(reviews);
 
         })
 
-        app.get('/myreview/:id', async (req, res) => {
+        app.get('/reviews/:id', async (req, res) => {
             const id = req.params.id;
             const query = { id: id }
             const cursor = reviewCollection.find(query);
@@ -65,12 +78,14 @@ async function run() {
 
         })
 
-        app.post('/myreview', async (req, res) => {
+        app.post('/reviews', async (req, res) => {
             const review = req.body;
             // console.log(user);
             const reviews = await reviewCollection.insertOne(review);
             res.send(reviews);
         })
+
+
 
 
 
